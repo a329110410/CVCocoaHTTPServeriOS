@@ -1,0 +1,2 @@
+# CVCocoaHTTPServer_ios
+Compatibility with CocoaLumberjack
